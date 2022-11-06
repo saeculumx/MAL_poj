@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5675155-1212-4ae6-b409-01dcf716b6a7" name="Changes" comment="commit" />
+    <list default="true" id="a5675155-1212-4ae6-b409-01dcf716b6a7" name="Changes" comment="commit">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MAL1 Project 2022.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MAL1 Project 2022.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +51,14 @@
       <workItem from="1666855943858" duration="1959000" />
       <workItem from="1667134355352" duration="1799000" />
       <workItem from="1667320784523" duration="21907000" />
+      <workItem from="1667346894122" duration="189000" />
+      <workItem from="1667398835676" duration="608000" />
+      <workItem from="1667420889365" duration="12000" />
+      <workItem from="1667474284512" duration="1090000" />
+      <workItem from="1667480191413" duration="598000" />
+      <workItem from="1667507500985" duration="194000" />
+      <workItem from="1667677339867" duration="1665000" />
+      <workItem from="1667767841852" duration="12000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1667346417932</created>
@@ -66,7 +78,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -77,6 +101,15 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="MAL1 Project 2022">
         <watch expression="delay" />
