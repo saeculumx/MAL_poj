@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="333b3edc-abe0-4889-b58d-2b9ab71b0db0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise - knn vs OLS regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise - knn vs OLS regression.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MAL1 Project 2022.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MAL1 Project 2022.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OLS and knn regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/OLS and knn regression.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +12,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -43,6 +49,15 @@
       <workItem from="1667999674867" duration="623000" />
       <workItem from="1668018621643" duration="1810000" />
       <workItem from="1668089353569" duration="7580000" />
+      <workItem from="1668277152000" duration="12291000" />
+      <workItem from="1668347619093" duration="21000" />
+      <workItem from="1668453367206" duration="4969000" />
+      <workItem from="1668483076535" duration="604000" />
+      <workItem from="1668533597220" duration="5895000" />
+      <workItem from="1668610594248" duration="12362000" />
+      <workItem from="1668650239422" duration="1208000" />
+      <workItem from="1668778022472" duration="8574000" />
+      <workItem from="1668790361828" duration="7308000" />
     </task>
     <servers />
   </component>
