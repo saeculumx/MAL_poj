@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="333b3edc-abe0-4889-b58d-2b9ab71b0db0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/MAL_poj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MAL_poj.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MAL1 Project 2022.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MAL1 Project 2022.ipynb" afterDir="false" />
     </list>
@@ -34,6 +36,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -57,7 +60,24 @@
       <workItem from="1668610594248" duration="12362000" />
       <workItem from="1668650239422" duration="1208000" />
       <workItem from="1668778022472" duration="8574000" />
-      <workItem from="1668790361828" duration="7308000" />
+      <workItem from="1668790361828" duration="8324000" />
+      <workItem from="1668799630294" duration="227000" />
+      <workItem from="1668867528565" duration="2107000" />
+      <workItem from="1668950997763" duration="2780000" />
+      <workItem from="1668968300199" duration="2868000" />
+      <workItem from="1668971201592" duration="353000" />
+      <workItem from="1668971692964" duration="205000" />
+      <workItem from="1668971905053" duration="7470000" />
+      <workItem from="1668979606552" duration="1276000" />
+      <workItem from="1668980903509" duration="5969000" />
+      <workItem from="1668986927518" duration="1154000" />
+      <workItem from="1668988101477" duration="3362000" />
+      <workItem from="1669064291063" duration="148000" />
+      <workItem from="1669064465827" duration="5754000" />
+      <workItem from="1669083685474" duration="12000" />
+      <workItem from="1669136975119" duration="493000" />
+      <workItem from="1669144855098" duration="715000" />
+      <workItem from="1669145775071" duration="899000" />
     </task>
     <servers />
   </component>
